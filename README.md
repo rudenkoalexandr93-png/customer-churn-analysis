@@ -76,9 +76,9 @@ Analyzed:
 
 Identified variables most strongly associated with customer churn.
 
-### 5. Dashboard Development
+### 5. Report Development
 
-Built an interactive Power BI dashboard to visualize churn metrics and key business insights.
+Built an interactive Power BI Report to visualize churn metrics and key business insights.
 
 ---
 
@@ -124,7 +124,7 @@ Customers who stay active tend to:
 
 ---
 
-## Power BI Dashboard
+## Power BI Report
 
 Dashboard includes:
 
@@ -145,9 +145,9 @@ Dashboard includes:
 
 ---
 
-## Dashboard Preview
+## Report Preview
 
-<img src="images/dashboard_preview.png" width="900">
+<img src="images/Report Preview.png" width="900">
 
 ---
 
@@ -164,10 +164,10 @@ customer-churn-analysis/
 │   └── customer_churn_analysis.ipynb
 │
 ├── dashboard/
-│   └── Customer_Churn_Dashboard.pbix
+│   └── Customer_Churn_Report.pbix
 │
 ├── images/
-│   └── dashboard_preview.png
+│   └── Report Preview.png
 │
 └── README.md
 ```
