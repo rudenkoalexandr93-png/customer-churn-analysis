@@ -6,6 +6,7 @@ Customer churn is one of the most important business challenges for e-commerce c
 
 The goal of this project is to analyze customer behavior, identify factors associated with churn, and provide actionable recommendations to improve customer retention.
 
+![Dashboard Preview](images/Report Preview.png)
 ---
 
 ## Business Problem
